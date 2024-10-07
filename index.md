@@ -1,5 +1,5 @@
 ---
-title: "MyTitle."
+title: "주현."
 layout: splash
 header:
   overlay_color: "#fff"
@@ -17,6 +17,6 @@ intro:
 
 ## Title
 
-Body
+안녕하세요 
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
