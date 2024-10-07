@@ -1,5 +1,5 @@
 ---
-title: "MyTitle."
+title: "Minueono 입니다."
 layout: splash
 header:
   overlay_color: "#fff"
