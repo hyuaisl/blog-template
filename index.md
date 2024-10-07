@@ -1,5 +1,5 @@
 ---
-title: "MyTitle."
+title: "yjy"
 layout: splash
 header:
   overlay_color: "#fff"
@@ -17,6 +17,7 @@ intro:
 
 ## Title
 
-Body
+Artificial intelligence
+
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
