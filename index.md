@@ -17,7 +17,7 @@ intro:
 
 ## Title
 
-Artificial intelligence
+Artificial intelligence, ERICA
 
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
