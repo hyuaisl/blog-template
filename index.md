@@ -10,7 +10,7 @@ header:
       url: "/sample/"
 excerpt: " "
 intro:
-  - excerpt: ""
+  - excerpt: "Hello everyone, I am Luo Xiaofan from Artificial Intelligence."
 ---
 
 {% include feature_row id="intro" type="center" %}
