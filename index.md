@@ -17,6 +17,6 @@ intro:
 
 ## Title
 
-dkdkdkdk
+안녕하세요 
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
